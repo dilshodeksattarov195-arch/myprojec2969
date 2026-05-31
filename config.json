@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssender",
+        "uuid": 17549759,
+        "checksum": "1jqe3d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
